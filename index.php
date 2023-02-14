@@ -1,6 +1,7 @@
 <?php
 
 // Premiere ligne
+
 $a = 50;
 $b = 10;
 
@@ -26,6 +27,7 @@ if ($a > $b) {
 
 
 //Quatrieme ligne
+
 echo "<br><br>";
 if ($a == $b) {
     echo "1";
@@ -39,6 +41,7 @@ if ($a < $b) {
 
 
 //Cinquieme ligne
+
 echo "<br><br>";
 $color = "red";
 if ($color = "red" || "welcome") {
